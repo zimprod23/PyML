@@ -1,0 +1,14 @@
+{
+  "name": "frontend",
+  "version": "1.0.0",
+  "description": "Front end for market value prediction",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ezzoubeir Elasraoui",
+  "license": "ISC",
+  "dependencies": {
+    "styled-components": "^5.3.1"
+  }
+}
